@@ -13,4 +13,9 @@ symbol must be a valid stock symbol.
 If no stock_excahneg  is given then return the value of stock from AMEX (default) stock
 exchange with not found error message.
 
+Used :
+"github.com/gorilla/mux"- Reading the query parameter, Used the mux router.
+To get this package, use the following command: go get "github.com/gorilla/mux"
+
+
 
